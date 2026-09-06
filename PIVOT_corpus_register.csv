@@ -1,0 +1,33 @@
+version_id,cluster,greek_work,translator,year,title_translit,publisher_place,regime,proposed_role
+A01,A - Cyropaedia,"Xenophon, Cyropaedia",Z. al-Din Gharib,1954,Sirishti Kurushi kabir az tavallud ta saltanat,Tehran,indirect,core
+A02,A - Cyropaedia,"Xenophon, Cyropaedia",R. Mashayikhi,1963,Kurushnami,Tehran,indirect,core
+A03,A - Cyropaedia,"Xenophon, Cyropaedia",B. Karimi,1971,Tarbiati Kurush,Tehran,indirect,core
+A04,A - Cyropaedia,"Xenophon, Cyropaedia",V. Mazandarani,1999,Sirati Kurushi kabir,Tehran,indirect,core
+A05,A - Cyropaedia,"Xenophon, Cyropaedia",A. al-Hasan Tahami,2008,Zindigi-i Kurush,Tehran,indirect,core
+A06,A - Cyropaedia,"Xenophon, Cyropaedia",K. Rukhsani,2010,Zindiginamiyi Kurushi buzurg,Tehran,indirect,core
+B01,B - Persians,"Aeschylus, Persae",'A. Shamim Hamadani,1927,Iranian,Tehran Publishing House,indirect,core
+B02,B - Persians,"Aeschylus, Persae",'A. Deyhimi,ca. 1931,Iranian,Rahmanian,indirect,core
+B03,B - Persians,"Aeschylus, Persae",S. M. Afnan,1959,Iranian: namayishnamah,"Librairie d'Amerique et d'Orient, Maisonneuve (Paris)",DIRECT,DIRECT CONTROL
+B04,B - Persians,"Aeschylus, Persae",K. Khalili,1978,Iranian,Sorush,DIRECT,DIRECT CONTROL
+B05,B - Persians,"Aeschylus, Persae",M. 'A. Eslami Nodushan,1991,Iranian,Ketab-e Parvaz,indirect,core
+B06,B - Persians,"Aeschylus, Persae",A. Kowsari,2011,Ayskhulus: Majmu'a-yi asar,Ney,indirect,core
+C01,C - Crito (anchor),"Plato, Crito",M. A. Foroughi,1938,Hekmate Soghrat va Aflatun,Majles Publishing House,indirect,core
+C02,C - Crito (anchor),"Plato, Crito",H. Lotfi,1979,Dore-ye Asare Aflatun,Kharazmi,indirect,core
+C03,C - Crito (anchor),"Plato, Crito",J. Jahanshahi,1989,Vapasin Ruzhaye Soghrat,Porsesh,indirect,core
+C04,C - Crito (anchor),"Plato, Crito",L. Golestan,2013,Mohakeme-ye Soghrat,Markaz,indirect,core
+C05,C - Crito (anchor),"Plato, Crito",I. Shafi'-Beyk,2023,Kriton,Ney (Tehran),DIRECT,DIRECT CONTROL
+C06,C - Crito (anchor),"Plato, Crito","F. Shamsian (supervisor) with F. Rahimi, A. Mahmoudzadeh Sarabi, N. Mohammadi, K. Nikpoor, S. Assimi",2023 (Zenodo dataset); 2025 (data paper),Kriton - collaborative PRIMARY version,Zenodo / Journal of Open Humanities Data 11:78,DIRECT,DIRECT CONTROL
+C07,C - Crito (anchor),"Plato, Crito","F. Shamsian (supervisor) with F. Rahimi, A. Mahmoudzadeh Sarabi, N. Mohammadi, K. Nikpoor, S. Assimi",2023 (Zenodo dataset); 2025 (data paper),Kriton - collaborative LITERAL version,Zenodo / Journal of Open Humanities Data 11:78,DIRECT,DIRECT CONTROL
+C08,C - Crito (anchor),"Plato, Crito","F. Shamsian (supervisor) with F. Rahimi, A. Mahmoudzadeh Sarabi, N. Mohammadi, K. Nikpoor, S. Assimi",2023 (Zenodo dataset); 2025 (data paper),Kriton - collaborative SECONDARY version,Zenodo / Journal of Open Humanities Data 11:78,DIRECT,DIRECT CONTROL
+D01,D - Gospels,"New Testament, four Gospels",Yuhanna bin al-Qass Yusaf al-Ya'qubi,pre-1341 (ms. 1341; pub. 1657),London Polyglot Persian Gospels,"Walton, Biblia Polyglotta (London)",indirect,core
+D02,D - Gospels,"New Testament, four Gospels",Kalamji Sarkis Loudj ben Amir Maleik,early 14th c. (pub. 1657),Quatuor evangeliorum ... versio Persica (Wheelocke),Wheelocke (Cambridge),indirect,core
+D03,D - Gospels,"New Testament, four Gospels",Mir Muhammad Baqir Ibn-i Isma'il-i Husayni Khatun Abadi,1703,Tarjumah-i anajil-i arba'ah,"ed. Ja'farian, Miras-i Maktub, Tehran 1995 / 2nd pr. 2005",indirect,core
+D04,D - Gospels,"New Testament, four Gospels","Mirza Mehdi Khan Esterabadi, Mir Ma'sum Khatun Abadi, Mir 'Abdul Ghani Khatun Abadi, with three Carmelite missionaries",1741,Injil-e Naadarshaahi,ed. Ja'farian 2009,indirect (three-step),core
+D05,D - Gospels,"New Testament, four Gospels",William Chambers,1793,Partial Matthew (Mt 1-13; only Mt 5-7 survive),"appendix to F. Gladwin, The Persian Moonshee (1795)",DIRECT,DIRECT CONTROL (partial)
+D06,D - Gospels,"New Testament, four Gospels",Henry Martyn & Mirza Seyyed Ali Khan Shirazi,1812,Peyman-e jadid-e khodavand va rahanande-ye ma,Russian Bible Society; BFBS 1816,DIRECT,DIRECT CONTROL
+D07,D - Gospels,"New Testament, four Gospels","Robert Bruce (revision of Martyn/Shirazi), assisted by E. H. Palmer",1882,Revised Persian New Testament,"BFBS, Leipzig",REVISION (descent within Persian),core - key O3 case
+D08,D - Gospels,"New Testament, four Gospels","Committee translation, general editor Mehrdad Fatehi",NT 2003; whole Bible 2013/14,Tarjuma-yi Hazara-yi now (NMV)  ,Elam Ministries (England),DIRECT,CANDIDATE DIRECT CONTROL
+D09,D - Gospels,"New Testament, four Gospels","Committee, general editor Mehdi Abhari (pastor, Evangelical Church of Iran)",NT 1976 (Tehran printing 1977); rev. 2023,Mozhda baraye 'asr-e jadid (TPV) ,Bible Society in Iran / United Bible Societies; Tehran,MIXED - documented,core - KEY CONTAMINATION CASE
+D10,D - Gospels,"New Testament, four Gospels",Committee (produced within the Living Bibles International / IBS programme),1995 (rev. 2005; 2018 as Tarjuma-yi mo'aser),Tarjuma-yi tafsiri (FCB)  ,International Bible Society / Biblica (Colorado Springs),indirect - TO CONFIRM,core
+D11,D - Gospels,"New Testament, four Gospels",Natale del Mistro,1971,Enjil-e Masih,Tehran,TO ESTABLISH,optional
+D12,D - Gospels,"New Testament, four Gospels",Bahman Armiti,1999,The Holy New Testament in Persian,Private,TO ESTABLISH,optional

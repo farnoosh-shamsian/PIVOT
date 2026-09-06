@@ -1,0 +1,13 @@
+# Local-only material: the Thucydides pre-study (corpus, pipeline, results, report). Kept on disk for reference.
+_archive_prestudy/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db
